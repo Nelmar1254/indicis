@@ -1,2 +1,3 @@
-# indicis
-Apenas compartilhando o que aprendo em programação, projetos e cursos
+Snake.io
+
+Jogo snake feito em Javascript HTML e CSS 
